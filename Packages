@@ -4248,7 +4248,7 @@ Installed-Size: 222
 MD5sum: e8415a7a2b0d803e739c7ad19afeb500
 SHA1: e0f261081a15ae6f9fa8aee78219363299426eaf
 SHA256: cca2c71ab4f3ac175b9205f4fca2f6a1f18c80a907db0e353a31347de169aa53
-Description: Whitelist applications to become irremovable from the switcher and also blacklist applications to be restartable instead of closed.
+Description: UNc0verise
 Name: UniBoot
 Author: FanaticalWhiteness <deeppwnage@yahoo.com>
 Depiction: https://DGh0st.github.io/Files/?p=com.dgh0st.whitelistswitcher
